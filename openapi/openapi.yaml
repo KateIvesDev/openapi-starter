@@ -40,6 +40,9 @@ info:
     implementation logic. Similar to what
     interfaces have done for lower-level programming, OpenAPI removes the
     guesswork in calling the service.
+
+    > [!NOTE]
+    > Useful information that users should know, even when skimming content.
 externalDocs:
   description: "Find out how to create a GitHub repo for your OpenAPI definition."
   url: 'https://github.com/Redocly/create-openapi-repo'
